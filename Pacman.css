@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+
+}
+
+#board{
+    background-color: black;
+}
